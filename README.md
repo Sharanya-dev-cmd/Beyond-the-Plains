@@ -31,3 +31,9 @@ This is my first large programming project, built while learning Python.
 ## Current Version
 
 v0.1.0
+
+## Note
+
+## Developer's Note
+
+This is my first game project. I'm keeping every version on GitHub so I can look back and see how much I've improved over time. 🤔🙂
